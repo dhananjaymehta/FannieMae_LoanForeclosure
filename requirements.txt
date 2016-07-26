@@ -1,0 +1,8 @@
+pandas
+matplotlib
+scikit-learn
+numpy
+ipython
+scipy
+
+NOTE: You can use Anaconda, which will install all the other dependencies and packages.
